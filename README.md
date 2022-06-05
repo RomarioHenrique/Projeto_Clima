@@ -7,15 +7,32 @@
  
   👉 Um site dinâmico que informa as condições climáticas com base na cidade informada pelo usuário.
  
- ## Resultado: 
-![alt tag](https://i.ibb.co/TgZvbZf/Result-Img.jpg)
-<hr>
-
 ## Tecnologias :rocket:
 
   
 
 <hr>
+
+## Resultado:
+
+### 1 - Tela Padrão.
+
+![Homepage image](clou)
+
+### 2 - You can also see a lot of information on the Blog posts session.
+
+![Posts](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/posts.png)
+
+### 3 - Or access some of the posts :D
+
+![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_1.png)
+![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_2.png)
+![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_3.png)
+
+### 4 - Or you can see my personal Portfolio.
+
+![Portfolio](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/portfolio_1.png)
+![Portfolio](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/portfolio_2.png)
 
  ## Mecânicas do jogo:
  
@@ -37,6 +54,3 @@
  
  Romario Henrique C. Rodrigues
   
- 
- 
- 
