@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+    * {
+      font-family: 'Rubik', sanss-serif;
+      padding: 0;
+    }
+
+    body {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100vh;
+          margin: 0;
+          font-family: 'Open Sans', sans-serif;
+          background: #222;
+          font-size: 120%;
+    }
+
+    .card {
+          background: #000000d0;
+          display: flex;
+          background-size: cover;
+          background-image: url('https://source.unsplash.com/1600x900/?landscape');
+          color: #fff;
+          border-radius: 30px;
+          height: 80vh;
+          width: 70vw;
+          margin: 1em;
+          padding: 0 !important;
+          justify-content: space-between;
+    }
+
+    .intro {
+          position: relative;
+     }
+
+      .search {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+            margin: 5px 0px 0px 10px;
+         }
+
+          .search-items {
+                display: flex;
+                align-items: center;
+           }
+
+          input.search-bar {
+                border: none;
+                outline: none;
+                padding: 0.4em 1em;
+                border-radius: 24px;
+                background: #ddd;
+                color: #000;
+                font-family: inherit;
+                font-size: 105%;
+                width: calc(100% - 100px);
+           } 
+
+           button {
+                margin: 0.5em;
+                border-radius: 50%;
+                padding: 10px;
+                border: none;
+                height: 44px;
+                width: 44px;
+                outline: none;
+                background: #ddd;
+                color: white;
+                cursor: pointer;
+                transition: 0.2s ease-in-out;
+            }
+    
+            button:hover {
+                background: #7c7c7c6b;
+            }
+      
+    .intro-items {
+          justify-content: center;
+         align-items: center;
+         position: absolute;
+         gap: 15px;
+         display: flex;
+         bottom: 0px;
+         padding-left: 20px;
+         margin: 0 !important;
+    }
+
+        .temp-gp {
+            display: flex;
+            margin: 0 !important;
+            align-items: center;
+            text-align: center;
+         }
+
+        .temp-ic {
+              display: flex;
+              flex-direction: column;
+              margin-left: 12px;
+              margin-bottom: 10px;
+              align-items: center;
+              text-align: center;
+          }
+           
+           .city{
+                 margin-left: 20px;
+                 text-align: center;
+                 width: 160px;
+           }
+
+            .temp {
+                  margin-left: 14px;
+                  color: #b1bfd8;
+                  font-weight: bold;
+            }
+
+            .description {
+                  text-transform: capitalize;
+                  margin-left: 8px;
+                  font-weight: bold;
+                  font-size: 24px;
+            }
+
+            .icon {
+                  width: 70px;
+                  height: 70px;
+            }
+        
+
+        .infos {
+            padding: 0px 4px;
+            z-index: 10;
+            margin: 0 !important;
+            width: 35%;
+            height: 100%;
+            backdrop-filter: blur(100px);
+            border-radius: 0px 30px 30px 0px;
+         }
+
+              .infosg {
+                  margin-top: 20px;
+              }
+
+                .infos-clima {
+                    display: flex;
+                    flex-direction: column;
+                    gap: 18px;
+                }
+
+                  .items {
+                      border: none;
+                      outline: none;
+                      border-radius: 24px;
+                      background: #7c7c7c2b;
+                      color: white;
+                      height: 45px;
+                      display: flex;
+                      align-items: center;
+                      padding: 2px 4px 2px 4px;
+                  }
