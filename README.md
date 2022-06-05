@@ -9,10 +9,10 @@
  
 ## Tecnologias Usadas :rocket:
 
-   👉 HTML5
-   👉 CSS3
-   👉 JAVASCRIPT
-   👉 FETCH API
+   👉 HTML5 <br>
+   👉 CSS3 <br>
+   👉 JAVASCRIPT <br>
+   👉 FETCH API <br>
    👉 OPEN WEATHER API
 
 <hr>
@@ -21,19 +21,19 @@
 
 ### 1 - Tela Padrão :sun_behind_large_cloud:
 
-![Homepage image](https://raw.githubusercontent.com/RomarioHenrique/Projeto_Clima/main/.github/default.png?token=GHSAT0AAAAAABVJAUYCFU4FDUJF5JTNYL5AYU4EHUA)
+![Homepage image](https://github.com/RomarioHenrique/Projeto_Clima/blob/main/.github/default.png?raw=true)
 
 ### 2 - Dia Nublado :partly_sunny:
 
-![Post](https://raw.githubusercontent.com/RomarioHenrique/Projeto_Clima/main/.github/cloudyday.png?token=GHSAT0AAAAAABVJAUYDIJTHFRQ4IEBU4N4IYU4EIRA)
+![Post](https://github.com/RomarioHenrique/Projeto_Clima/blob/main/.github/cloudyday.png?raw=true)
 
 ### 3 - Noite Nublada :cloud:
 
-![Post ](https://raw.githubusercontent.com/RomarioHenrique/Projeto_Clima/main/.github/cloudynight.png?token=GHSAT0AAAAAABVJAUYCKIBEVK7YY3UF7IOYYU4EJOQ)
+![Post ](https://github.com/RomarioHenrique/Projeto_Clima/blob/main/.github/cloudynight.png?raw=true)
 
 ### 4 - Dia Chuvoso :cloud_with_rain:
 
-![Post](https://raw.githubusercontent.com/RomarioHenrique/Projeto_Clima/main/.github/rain.png?token=GHSAT0AAAAAABVJAUYCYRQO5M47GFMPR3P4YU4EKSQ)
+![Post](https://github.com/RomarioHenrique/Projeto_Clima/blob/main/.github/rain.png?raw=true)
 
  ## Mecânicas do Projeto :hammer_and_wrench:
  
