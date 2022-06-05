@@ -47,6 +47,8 @@
  ## Teste o Projeto :computer:
  
   :point_right: https://romariohenrique.github.io/Projeto_Clima/index.html
+  
+  <hr>
 
  ## Versão :clipboard:
 
