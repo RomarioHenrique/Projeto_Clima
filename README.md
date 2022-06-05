@@ -43,6 +43,12 @@
   * Algumas informações não estão 100% corretas, devido ao atraso de atualização da API.
   
   <hr>
+  
+ ## Teste o Projeto :computer:
+ 
+  :point_right: https://romariohenrique.github.io/Projeto_Clima/index.html
+  
+  <hr>
 
  ## Versão :clipboard:
 
