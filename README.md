@@ -3,9 +3,9 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/RomarioHenrique/Projeto_Clima/blob/main/LICENSE)
 <hr>
 
-## Sobre o Projeto:
+## Sobre o Projeto :memo:
  
-  👉 Um site dinâmico que informa as condições climáticas com base na cidade informada pelo usuário, 
+  👉 Um site dinâmico que informa as condições climáticas com base na cidade informada pelo usuário.
  
  ## Resultado: 
 ![alt tag](https://i.ibb.co/TgZvbZf/Result-Img.jpg)
@@ -13,7 +13,7 @@
 
 ## Tecnologias :rocket:
 
-- <a href="#">Liste aqui</a>
+  
 
 <hr>
 
