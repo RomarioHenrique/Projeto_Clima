@@ -5,7 +5,7 @@
 
 ## Sobre o Projeto :memo:
  
-  :sunny:  Um site dinâmico que informa as condições climáticas, de acordo com a cidade informada pelo usuário, (as informações são atuais com base na OpenWeatherAPI). O site foi desenvolvido com intuito de por em prática conhecimentos relacionado aos Front-End, utilizando-se de algumas APIs gratuitas para fornecer os dados necessários.
+  :sunny:  Um site dinâmico que informa as condições climáticas, de acordo com a cidade informada pelo usuário, (as informações são atuais com base na OpenWeatherAPI). O site foi desenvolvido com intuito de por em prática conhecimentos relacionado ao Front-End, utilizando-se de algumas APIs gratuitas para fornecer os dados necessários (O projeto ainda não é responsivo).
  
 ## Tecnologias Usadas :rocket:
 
