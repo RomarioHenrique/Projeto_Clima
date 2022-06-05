@@ -1,3 +1,4 @@
+//Informações da API (OpenWeatherAPI)
 const api = {
     base: "https://api.openweathermap.org/data/2.5/",
     key: "089b9bed95e00dbc795741f5a3a2e3fa",
@@ -5,7 +6,7 @@ const api = {
     units: "metric"
 }
 
-function teste(city) {
+function clima(city) {
 
   fetch(`${api.base}weather?q=${city}&lang=${api.lang}&units=${api.units}&APPID=${api.key}`)
 
@@ -17,11 +18,11 @@ function teste(city) {
             return response.json();
           })
           .then(data => {
-            test(data)
+            climad(data)
         });
 };
 
-function test(data) {
+function climad(data) {
 
     const { name } = data;
     const { icon, description } = data.weather[0];
@@ -152,7 +153,7 @@ function test(data) {
     
 
 function pesquisar() {
-   this.teste(document.querySelector(".search-bar").value);
+   this.clima(document.querySelector(".search-bar").value);
 };
 
 document.querySelector(".search button").addEventListener("click", function () {
