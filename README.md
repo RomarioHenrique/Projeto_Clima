@@ -5,52 +5,52 @@
 
 ## Sobre o Projeto :memo:
  
-  👉 Um site dinâmico que informa as condições climáticas com base na cidade informada pelo usuário.
+  :sunny:  Um site dinâmico que informa as condições climáticas, de acordo com a cidade informada pelo usuário, (as informações são atuais com base na OpenWeatherAPI). O site foi desenvolvido com intuito de por em prática conhecimentos relacionado aos Front-End, utilizando-se de algumas APIs gratuitas para fornecer os dados necessários.
  
-## Tecnologias :rocket:
+## Tecnologias Usadas :rocket:
 
-  
+   👉 HTML5
+   👉 CSS3
+   👉 JAVASCRIPT
+   👉 FETCH API
+   👉 OPEN WEATHER API
 
 <hr>
 
-## Resultado:
+## Resultado :open_file_folder:
 
-### 1 - Tela Padrão.
+### 1 - Tela Padrão :sun_behind_large_cloud:
 
-![Homepage image](clou)
+![Homepage image](https://raw.githubusercontent.com/RomarioHenrique/Projeto_Clima/main/.github/default.png?token=GHSAT0AAAAAABVJAUYCFU4FDUJF5JTNYL5AYU4EHUA)
 
-### 2 - You can also see a lot of information on the Blog posts session.
+### 2 - Dia Nublado :partly_sunny:
 
-![Posts](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/posts.png)
+![Post](https://raw.githubusercontent.com/RomarioHenrique/Projeto_Clima/main/.github/cloudyday.png?token=GHSAT0AAAAAABVJAUYDIJTHFRQ4IEBU4N4IYU4EIRA)
 
-### 3 - Or access some of the posts :D
+### 3 - Noite Nublada :cloud:
 
-![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_1.png)
-![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_2.png)
-![Post show](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/post_3.png)
+![Post ](https://raw.githubusercontent.com/RomarioHenrique/Projeto_Clima/main/.github/cloudynight.png?token=GHSAT0AAAAAABVJAUYCKIBEVK7YY3UF7IOYYU4EJOQ)
 
-### 4 - Or you can see my personal Portfolio.
+### 4 - Dia Chuvoso :cloud_with_rain:
 
-![Portfolio](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/portfolio_1.png)
-![Portfolio](https://github.com/Lucasdfg07/Blog_Lucas_Fernandes/blob/master/public/readme/portfolio_2.png)
+![Post](https://raw.githubusercontent.com/RomarioHenrique/Projeto_Clima/main/.github/rain.png?token=GHSAT0AAAAAABVJAUYCYRQO5M47GFMPR3P4YU4EKSQ)
 
- ## Mecânicas do jogo:
+ ## Mecânicas do Projeto :hammer_and_wrench:
  
-  * Sempre que a cobrar comer uma maçã, ela receberá um quadrado a mais na calda.
-  * O jogo não possui barreiras, caso o jogador siga reto para uma borda ele retornará na borda oposta.
-  * Caso a cabeça da cobra encoste em alguma parte do corpo, a cobra irá parar de se movimentar e voltará a ter somente um quadrado como corpo.
-  
+  * O usuário deve informar o nome de uma cidade corretamente, caso esteja errado ou não conste no banco de dados da API, será retornado o alerta "Cidade não encontrada".
+  * A imagem inicial do site é aleatória (mudará sempre que a pagina é recarregada).
+  * As imagens que aparecem ao fundo, estão de acordo com o clima e horário da região (Dia e Noite).
+  * Algumas informações não estão 100% corretas, devido ao atraso de atualização da API.
   
   <hr>
 
- ## Como executar o projeto: 
- 
-   * Copie os códigos html, css e js para seu editor de códigos (VsCode, Sublime, CodePen e etc).
-   * Salve eles com os nomes Index.html, Style.css e Script.js respectivamente.
-   * Inicie o código.
+ ## Versão :clipboard:
+
+  1.0.0.0
+
  <hr>
  
- # Autor
+ # Autor :wave:
  
  Romario Henrique C. Rodrigues
   
