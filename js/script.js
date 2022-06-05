@@ -127,6 +127,14 @@ function test(data) {
                         document.querySelector(".card").style.backgroundImage = "url(images/05dn.jfif)"
               break;
 
+              case "50d":
+                        document.querySelector(".card").style.backgroundImage = "url(images/06dn.avif)"
+              break; 
+
+                  case "50n":
+                        document.querySelector(".card").style.backgroundImage = "url(images/06dn.avif)"
+              break;
+
             
 
          default:
